@@ -1,3 +1,3 @@
 # DataManagementAndVisualization
 
-Coursera's Machine learning course: https://www.coursera.org/learn/data-visualization/home/info 
+Coursera's Machine learning course by Wesleyan University: https://www.coursera.org/learn/data-visualization/home/info 
